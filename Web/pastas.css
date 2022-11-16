@@ -1,5 +1,5 @@
 .container {
-	background-image: url(imagenes/pastas5.jpg);
+	background-image: url(imagenes/pastas5color.jpg);
 	border:solid;
 	display: grid;
 	grid-template-areas: "item1 item1 item1 item1"
